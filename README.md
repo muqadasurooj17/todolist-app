@@ -46,9 +46,6 @@ npm install
 npm start
 
 ### Frontend Output
-http://localhost/save.php
-<img width="499" height="418" alt="image" src="https://github.com/user-attachments/assets/7d036a16-0f50-48dc-a092-6d4f670c1a08" />
-
 
 <img width="526" height="466" alt="image" src="https://github.com/user-attachments/assets/20590d4e-ae75-43ac-a1ae-674e92f147cb" />
 
@@ -57,12 +54,14 @@ http://localhost/save.php
 
 1. Copy the `save.php` folder into your XAMPP `htdocs` directory:
 2. Start Apache and MySQL using XAMPP control panel.
+3. http://localhost/save.php
 
 ### Output File
-http://localhost/save.php
-<img width="499" height="418" alt="image" src="https://github.com/user-attachments/assets/7d036a16-0f50-48dc-a092-6d4f670c1a08" />
 
-### AUTHOR
+
+<img width="499" height="358" alt="image" src="https://github.com/user-attachments/assets/7d036a16-0f50-48dc-a092-6d4f670c1a08" />
+
+### Author
 Built with love by Muqadas Urooj
 
 
